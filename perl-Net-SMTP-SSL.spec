@@ -55,5 +55,5 @@ rm -rf $RPM_BUILD_ROOT
 %files
 %defattr(644,root,root,755)
 %doc Changes
-%{perl_vendorlib}/Net/SMTP/*.pm
-%{_mandir}/man3/*
+%{perl_vendorlib}/Net/SMTP/SSL.pm
+%{_mandir}/man3/Net::SMTP::SSL.3pm*
