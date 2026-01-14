@@ -8,7 +8,7 @@ Summary:	Net::SMTP::SSL - An SMTP client supporting SSL
 Summary(pl.UTF-8):	Net::SMTP::SSL - klient SMTP obsługujący SSL
 Name:		perl-Net-SMTP-SSL
 Version:	1.04
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
